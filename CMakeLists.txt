@@ -24,7 +24,7 @@ include( GNUInstallDirs )
 
 project( expected_lite LANGUAGES CXX VERSION ${expected_lite_version})
 
-set( package_name "expected-lite" )
+set( package_name "expected_lite" )
 
 set( include_source_dir "${PROJECT_SOURCE_DIR}/include" )
 
